@@ -99,4 +99,4 @@ Variable ventana: El espacio físico donde se renderizan los píxeles.
 ![alt text](image-1.png)
 
 ## TRABAJO FINAL: el cuadrado rebotando en la ventana de pygame
-![alt text](image-2.png)
+![alt text](image-3.png)

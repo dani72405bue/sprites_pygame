@@ -49,8 +49,8 @@ while 1:
     for event in pygame.event.get ():
         if event.type == pygame.QUIT:
             sys.exit ()
-all_sprites. clear(screen, background)
-all_sprites. update()
-all_sprites.draw(screen)
+    all_sprites. clear(screen, background)
+    all_sprites. update()
+    all_sprites.draw(screen)
 
-pygame.display.flip()
+    pygame.display.flip()

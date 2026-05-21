@@ -16,6 +16,7 @@ class Vehiculo:
     def Detenerse(self):
         self. AVANZA = False
         print (self. MATRICULA + " se detiene.")
+        
 # Construcción de una primera instancia
 vehiculol = Vehiculo("AR123", "rojo", 3)
 # Construccion de una segunda instancia
